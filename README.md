@@ -5,13 +5,7 @@
 |key|value|
 |---|-----|
 |Name|WATARU SATO|
-|Twitter|[@foo7print](https://twitter.com/foo7print)|
-|note.mu|https://note.mu/foo7print|
-
-## 概要
-
-- フロントエンドとバックエンド双方の開発経験があること、新規開発と保守・運用の開発経験があることが長所だと思います。
-- 小規模〜中規模サービスの新規開発フェーズや、サービスのリプレイスフェーズにおいて有用なエンジニアだと思います。
+|blot|https://foo7print.me|
 
 ## スキル
 
@@ -21,9 +15,13 @@
 
 Ruby | JavaScript | PHP | Java | HTML5 | CSS3
 
-### フレームワーク等
+### フレームワーク
 
-Ruby on Rails |  Vue.js | Angular2+/TypeScript | Symfony | CakePHP | Sass | Webpack | Gulp
+Ruby on Rails |  Nuxt.js/TypeScript | Vue.js | Angular2+/TypeScript | Symfony | CakePHP
+
+### Frontend tools
+
+Sass | Webpack | Gulp
 
 ### RDB/NoSQL
 
@@ -43,9 +41,13 @@ GitHub | BitBucket | GitLab
 
 Docker | Nginx | Puma | Apache | Tomcat
 
+## 得意領域
+
+- フロントエンドとバックエンド双方の開発経験があること、新規開発と保守・運用の開発経験があることが長所だと思います。
+
 ## バリューを発揮しやすい業務
 
-※todo
+- 小規模〜中規模サービスの新規開発フェーズや、サービスのリプレイスフェーズ
 
 ## 主な業務経歴
 
