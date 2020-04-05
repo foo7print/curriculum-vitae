@@ -110,9 +110,9 @@ Rails/Vue.jsを用いたWebアプリケーション開発において設計や�
 - バックエンドにService層、ValueObject層を設けるかについて。
 - フロントエンドをVanillaJS、Vue.js、jQueryからどの技術を用いて実装をするかについて。
   - Vue.jsの設計方針について。
-    - APIとリポジトリを分割しSPAとするか。
-    - Vue-router、Vuexを導入。
-    - 単一ファイルコンポーネント。
+    - APIとリポジトリを分割しSPAとするかについて。
+    - Vue-router、Vuexを導入するかについて。
+    - 単一ファイルコンポーネントにするかについて。
 
 ### 旅行日程自動作成Webサービス新規開発プロジェクトのAPI開発/SPA開発【Rails/Angular4/TypeScript】（2017年7月〜2018年9月）
 
